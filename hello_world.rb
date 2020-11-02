@@ -1,1 +1,1 @@
-purs "hello World!"
+puts "hello World!"
